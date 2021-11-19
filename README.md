@@ -24,6 +24,5 @@ ouo[MaHua](http://mahua.jser.me/)
 
 - - - -
 
-'''
-test
-'''
+Roses are red,   
+Violets are blue.
